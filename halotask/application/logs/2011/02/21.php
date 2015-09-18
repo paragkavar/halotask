@@ -1,0 +1,18 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-02-21 09:47:03 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-02-21 09:47:04 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-02-21 09:47:06 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-02-21 09:47:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-02-21 09:47:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-02-21 09:47:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/web_01.jpg ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-02-21 09:47:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/centerBg.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-02-21 09:47:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/web_01.jpg ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-02-21 09:47:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/centerBg.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-02-21 09:47:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/web_01.jpg ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-02-21 09:47:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/centerBg.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-02-21 09:49:31 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/web_01.jpg ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-02-21 09:49:31 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/centerBg.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-02-21 09:51:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/web_01.jpg ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-02-21 09:51:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/centerBg.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-02-21 11:51:19 --- ERROR: ReflectionException [ -1 ]: Class controller_hi-task does not exist ~ SYSPATH/classes/kohana/request.php [ 1178 ]
